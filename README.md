@@ -1,6 +1,8 @@
 # playground_notebook
 Artisanal notebook with a Circuit Playground embedded all over
 
+#### *A project in collaboration with Rebe Montero*
+
 ## Done
 - Embedded Adafruit's Circuit Playground microcontroller
 - Embedded battery
