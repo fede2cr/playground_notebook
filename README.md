@@ -14,6 +14,7 @@ In the future I will revisit this project but with an ESP8266 Feather with Mycro
 - Conductive cooper tape
 - Sewable snaps for the battery switch
 - Solder station
+- Silicon cover stranded-core wire 26AWG, color close to the fabric for the cover
 
 ## Instructions
 
