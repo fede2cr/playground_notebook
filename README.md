@@ -36,14 +36,14 @@ Also run copper tape from the desired pads on the Playground to the parts on the
 5. Upload the software to create the desired effect for the notebook, depending on creativity or on customer's specifications.
 
 ### Done
-- Embedded Adafruit's Circuit Playground microcontroller
-- Embedded battery
+- [x] Embedded Adafruit's Circuit Playground microcontroller
+- [x] Embedded battery
 
 ### Wishlist/TODO
-- Laser cut patterns for the cartboard of the cover
-- Sewable snap battery switch
-- Page contact detection, for playing sound effects, music or other actions
-- Capacitive touch buttons, on the cover, back or other places
-- Deep sleep mode for low battery use
-- Exposed USB port for charging and loading firmware
-- Images to describe the project, maybe move to a separate MD file
+- [ ] Laser cut patterns for the cartboard of the cover
+- [ ] Sewable snap battery switch
+- [ ] Page contact detection, for playing sound effects, music or other actions
+- [ ] Capacitive touch buttons, on the cover, back or other places
+- [ ] Deep sleep mode for low battery use
+- [ ] Exposed USB port for charging and loading firmware
+- [ ] Images to describe the project, maybe move to a separate MD file
